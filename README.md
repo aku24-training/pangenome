@@ -1,2 +1,3 @@
-# pangenome
-Pangenome Analysis with Roary tutorial
+# Pangenome Analysis
+
+A tutorial on pangenome analysis with Roary.
